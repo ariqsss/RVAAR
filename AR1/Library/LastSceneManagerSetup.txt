@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Mainmenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Lose.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Win.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
